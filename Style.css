@@ -1,0 +1,47 @@
+*{
+    padding:0;
+    margin:0;
+}
+ul{
+    position:relative;
+    left:30px;
+}
+body{
+    background-color:rgb(106, 106, 237);
+}
+h1{
+    color:rgb(106, 106, 237);
+    font-style: oblique;
+    position:relative;
+    left:150px;
+}
+section{
+    background-color:white;
+    width:400px;
+    margin:50px auto;
+    border-block:5px solid red;
+}
+input{
+    border:2px solid blue;
+    padding:9px;
+    position:relative;
+    left:70px;
+    margin:5px;
+}
+button{
+    border:2px rgb(106, 106, 237);
+    position:relative;
+    left:70px;
+    padding:10px;
+    margin:5px 0px 0px 0px;
+    background-color:rgb(106, 106, 237);
+}
+.change{
+    position:relative;
+    left:50px;
+    color:rgb(106, 106, 237);
+}
+.remove{
+    text-decoration: line-through;
+    color:black;
+}
